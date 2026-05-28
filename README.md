@@ -1,2 +1,2 @@
 # Photobooth
-Modern Photo Booth website with responsive design, interactive UI, gallery sections, and smooth user experience built using HTML, CSS, and JavaScript.
+A professional photography portfolio website designed to help photographers showcase their work online, increase their digital presence, and attract potential clients. The website includes responsive galleries, project showcases, contact features, and a modern user-friendly interface to display photography collections effectively. The project is deployed on a public domain for easy accessibility and live viewing: atharvphotobooth.netlify.app
